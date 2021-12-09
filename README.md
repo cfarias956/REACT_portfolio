@@ -1,3 +1,2 @@
-## Personal Portfolio
+## React Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
